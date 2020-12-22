@@ -1,0 +1,17 @@
+body{
+background-color: black;
+
+}
+
+button{
+    color: yellow;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 2px;
+}
+
+#butt{
+    text-align: center;
+    padding: 5px;
+}
